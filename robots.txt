@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /home/
+Allow: /about/
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+Sitemap: https://jokerjun00.github.io/sitemap.xml
