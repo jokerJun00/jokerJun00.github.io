@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jokerjun00.github.io/2021/08/08/Recursion/</loc>
+    
+    <lastmod>2021-08-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jokerjun00.github.io/about/index.html</loc>
     
     <lastmod>2021-06-30</lastmod>
@@ -39,15 +46,29 @@
 
   <url>
     <loc>https://jokerjun00.github.io/</loc>
-    <lastmod>2021-06-30</lastmod>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://jokerjun00.github.io/tags/data-stucture/</loc>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jokerjun00.github.io/tags/recursion/</loc>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jokerjun00.github.io/tags/welcome/</loc>
-    <lastmod>2021-06-30</lastmod>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -55,8 +76,22 @@
 
   
   <url>
+    <loc>https://jokerjun00.github.io/categories/Data-structure-Algorithm/</loc>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jokerjun00.github.io/categories/welcome/</loc>
-    <lastmod>2021-06-30</lastmod>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jokerjun00.github.io/categories/Data-structure-Algorithm/Algorihtm/</loc>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
